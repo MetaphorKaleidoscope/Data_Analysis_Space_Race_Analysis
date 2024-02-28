@@ -1,6 +1,6 @@
 # Space Race Analysis
 
-### Using an incredibly rich dataset from [nextspaceflight](nextspaceflight.com) that includes all the space missions since the beginning of Space Race between the USA and the Soviet Union in 1957
+### Using an incredibly rich dataset from [nextspaceflight](https://nextspaceflight.com/launches/past/?page=1) that includes all the space missions since the beginning of Space Race between the USA and the Soviet Union in 1957
 
 
 <h3 align="center" >Mission Status</h3> 
@@ -52,6 +52,6 @@
 
 <h3 align="center" >Where Mission Launch Take Place?</h3>
 <h2 align="center">
-  <img src="img/Where Mission Launch Take Place?.png" />
+  <img src="img/Where Mission Launch Take Place.png" />
 </h2>
 
