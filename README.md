@@ -10,7 +10,9 @@
 
 ### Using an incredibly rich dataset from [nextspaceflight](https://nextspaceflight.com/launches/past/?page=1) that includes all the space missions since the beginning of Space Race between the USA and the Soviet Union in 1957.
 
-### If you want to see the complete step by step with all the details, [follow the instructions](###Instructions).
+### If you want to see the complete step by step with all the details, [follow the instructions](https://github.com/MetaphorKaleidoscope/Data_Analysis_Space_Race_Analysis/edit/master/README.md#instructions).
+### you can also check the file: [jupyter notebook](Analysis_the_Space_Race.ipynb).
+
 
 <h4>Now let's know the status of the missions:</h4>
 <h3 align="center" >Mission Status</h3> 
@@ -82,7 +84,7 @@ Where Mission Launch Take Place?</h4>
 
 ### Instructions
 1. Download the repository to your local machine and extract it into a folder:
-
+```
 https://github.com/MetaphorKaleidoscope/Data_Analysis_Space_Race_Analysis.git
-
-2. Open in your browser "Analysis the Space Race.html"
+```
+3. Open in your browser "Analysis the Space Race.html"
