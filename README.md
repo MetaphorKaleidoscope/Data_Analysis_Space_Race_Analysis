@@ -10,7 +10,7 @@
 
 ### Using an incredibly rich dataset from [nextspaceflight](https://nextspaceflight.com/launches/past/?page=1) that includes all the space missions since the beginning of Space Race between the USA and the Soviet Union in 1957.
 
-### If you want to see the complete step by step with all the details, [follow the instructions](https://github.com/MetaphorKaleidoscope/Data_Analysis_Space_Race_Analysis/edit/master/README.md#instructions).
+### If you want to see the complete step by step with all the details [follow the instructions](#instructions).
 ### you can also check the file: [jupyter notebook](Analysis_the_Space_Race.ipynb).
 
 
