@@ -87,4 +87,4 @@ Where Mission Launch Take Place?</h4>
 ```
 https://github.com/MetaphorKaleidoscope/Data_Analysis_Space_Race_Analysis.git
 ```
-3. Open in your browser "Analysis the Space Race.html"
+2. Open in your browser "Analysis the Space Race.html"
